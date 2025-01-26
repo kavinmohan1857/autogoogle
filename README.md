@@ -11,7 +11,7 @@ Run program from the terminal with command: "python autogoogle.py"
 
 As prompted, enter the query you wish to google search.
 
-Then, return the amount of results you wish to return (or nothing for the default value of 10)
+Then, enter the amount of results you wish to return (or nothing for the default value of 10)
 
 ## Keep up with updates!
 
